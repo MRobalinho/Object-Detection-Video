@@ -60,3 +60,7 @@ In order to Install ImageAI see this page:
 <br/>h5py						> pip3 install h5py
 <br/>Keras						> pip3 install keras
 <br/>Install ImageAI  			> pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
+
+## RESULT can be watched in:
+<br/>https://youtu.be/xZW8j-umdgs
+<br/>https://youtu.be/Q3lKlzi_cEw
