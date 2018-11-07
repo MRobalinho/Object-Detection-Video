@@ -25,7 +25,7 @@ https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-ke
 <br/>ix. 	ImageAI (https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl )
 
 <br/>
-<br/>We usu trained YOLOv3 computer vision model to perform the detection and recognition tasks
+<br/>We use trained YOLOv3 computer vision model to perform the detection and recognition tasks
 <br/>Download YOLO here:
 <br/>https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
 <br/>
