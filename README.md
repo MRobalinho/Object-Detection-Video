@@ -36,3 +36,27 @@ https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-ke
 <br/>https://imageai.readthedocs.io/en/latest/video/index.html
 <br/>Download RetinaNet Model - resnet50_coco_best_v2.0.1.h5
 <br/>https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0/
+
+
+In order to Install ImageAI see this page:
+<br/>https://imageai.readthedocs.io/en/latest/
+
+<br/>Installing ImageAI
+<br/>ImageAI requires that you have Python 3.5.1 or higher installed as well as some other Python libraries and frameworks. Before you install ImageAI, you must install the following dependencies.
+
+<br/>Download and install:
+<br/>Python 3.5.1 or higher, Download Python here: https://www.python.org/downloads/
+<br/>pip3 , Download PyPi here: https://pypi.org/project/pip/
+
+
+<br/>Use Command line CMD.exe as admnistrator
+
+<br/>Tensorflow 1.4.0 or higher  > pip3 install --upgrade tensorflow
+<br/>Numpy 1.13.1 or higher     	> pip3 install numpy
+<br/>SciPy .19.1 or higher		> pip3 install scipy
+<br/>OpenCV						> pip3 install opencv-python
+<br/>Pillow						> pip3 install pillow
+<br/>Matplotlib					> pip3 install matplotlib
+<br/>h5py						> pip3 install h5py
+<br/>Keras						> pip3 install keras
+<br/>Install ImageAI  			> pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
