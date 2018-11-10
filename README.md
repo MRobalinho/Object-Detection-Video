@@ -49,7 +49,7 @@ In order to Install ImageAI see this page:
 <br/>pip3 , Download PyPi here: https://pypi.org/project/pip/
 
 
-<br/>Use Command line CMD.exe as admnistrator
+<br/>Use Command line CMD.exe as administrator
 
 <br/>Tensorflow 1.4.0 or higher  > pip3 install --upgrade tensorflow
 <br/>Numpy 1.13.1 or higher     	> pip3 install numpy
