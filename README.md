@@ -63,6 +63,8 @@ In order to Install ImageAI see this page:
 
 ## RESULT can be watched in:
 
+[![Detection Video](https://youtu.be/xZW8j-umdgs/0.jpg)](https://youtu.be/xZW8j-umdgs "My Video")
+
 [![IMAGE ALT TEXT](video/image_video.jpg)](https://youtu.be/xZW8j-umdgs "My Video")
 ![video/image_video.jpg](https://youtu.be/xZW8j-umdgs)
 <br/>https://youtu.be/xZW8j-umdgs
