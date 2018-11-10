@@ -65,6 +65,6 @@ In order to Install ImageAI see this page:
 
 [![DETECTION VIDEO](https://img.youtube.com/vi/xZW8j-umdgs/0.jpg)](https://www.youtube.com/watch?v=xZW8j-umdgs)
 <br/>https://youtu.be/xZW8j-umdgs
-
-[![DETECTION VIDEO](https://img.youtube.com/vi/Q3lKlzi_cEw/0.jpg)](https://www.youtube.com/watch?v=Q3lKlzi_cEw)
+<br/>
+[![DETECTION VIDEO](https://img.youtube.com/vi/Q3lKlzi_cEw/1.jpg)](https://www.youtube.com/watch?v=Q3lKlzi_cEw)
 <br/>https://youtu.be/Q3lKlzi_cEw
