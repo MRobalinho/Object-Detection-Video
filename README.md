@@ -63,7 +63,9 @@ In order to Install ImageAI see this page:
 
 ## RESULT can be watched in:
 
-[![Alt text](https://img.youtube.com/vi/youtu.be/xZW8j-umdgs/0.jpg)](https://www.youtube.com/watch?v=xZW8j-umdgs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xZW8j-umdgs/0.jpg)](https://www.youtube.com/watch?v=xZW8j-umdgs)
+
+
 
 <br/>https://youtu.be/xZW8j-umdgs
 <br/>https://youtu.be/Q3lKlzi_cEw
