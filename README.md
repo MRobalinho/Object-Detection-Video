@@ -1,4 +1,4 @@
-# Object-Detection-Video
+# Object Detection Video
 Object Detection Video with TensorFlow
 
 Detecting objects in videos and camera feeds using Keras, OpenCV, and ImageAI
